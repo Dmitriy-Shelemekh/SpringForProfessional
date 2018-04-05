@@ -27,3 +27,4 @@ hs_err_pid*
 /.idea/
 /HelloWorld_Spring/HelloWorld_Spring.iml
 /HelloWorld_IoC/HelloWorld_IoC.iml
+/HelloWorld_IoC/target/
