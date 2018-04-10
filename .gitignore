@@ -25,8 +25,12 @@ hs_err_pid*
 
 /*.iml
 /.idea/
-/002_HelloWorld_Spring/HelloWorld_Spring.iml
+
 /001_HelloWorld_IoC/HelloWorld_IoC.iml
 /001_HelloWorld_IoC/target/
+
+/002_HelloWorld_Spring/HelloWorld_Spring.iml
 /002_HelloWorld_Spring/target/
+
 /003_HelloWorld_SetterInjection/HelloWorld_SetterInjection.iml
+/003_HelloWorld_SetterInjection/target/
