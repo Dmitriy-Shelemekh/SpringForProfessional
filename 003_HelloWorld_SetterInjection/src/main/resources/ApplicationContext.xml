@@ -9,6 +9,6 @@
           class="HelloWorldMessageProvider"/>
 
     <bean id="renderer"
-          class="StamdartOutMessageRenderer"
+          class="StandardOutMessageRenderer"
           p:messageProvider-ref="provider"/>
 </beans>
